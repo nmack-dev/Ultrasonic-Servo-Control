@@ -9,7 +9,7 @@ See below for a diagram representing the structure of the project. More informat
 <img width="484" alt="Screen Shot 2021-12-22 at 3 35 19 PM" src="https://user-images.githubusercontent.com/40639093/147152190-294e59a0-e291-4322-8a84-d2ddc4f73023.png">
 
 ## Credits
-Some code is used/adatped from these courses/tutorials/projects.
+Some code is used/adapted from these courses/tutorials/projects.
 
 **UT Austin - Embedded Systems Shape the World**
 * https://users.ece.utexas.edu/~valvano/Volume1/E-Book/
